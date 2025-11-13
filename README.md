@@ -60,8 +60,7 @@ Go to Permissions -> Block Public Access.
 Turn off the settings and confirm by typing "confirm".
 
 ### 6. Access Your Website
-Use the S3 website endpoint URL:
-http://your-bucket-name.s3-website-region.amazonaws.com
+Use the S3 website endpoint URL to access.
 
 ### Screenshots
 Screenshots included:
