@@ -11,7 +11,6 @@ This project demonstrates how to host a static website using Amazon S3. It inclu
 
 ## AWS Services Used
 - Amazon S3
-- IAM (for permissions)
 
 ## Project Structure
 .
